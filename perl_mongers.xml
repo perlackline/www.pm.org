@@ -19037,4 +19037,28 @@
     <web>http://niceville.pm.org</web>
     <date type="inception">20150629</date>
   </group>
+<group id="n" status="active"> 
+  <name>Okinawa.pm</name>
+  <location>
+    <city>Naha</city>
+    <state>Okinawa</state>
+    <region></region>
+    <contry>Japan</contry>
+    <continent>Asia</continent>
+    <longitude>127.680932</longitude>
+    <latitude>26.212401</latitude>
+  </location>
+  <email type="group">
+    <user>***</user>
+    <domain>***</domain>
+  </email>
+  <tsar> 
+    <name>masakyst !!</nama>
+    <email>***</email>
+      <user>***</user>
+      <domain>***</domain>
+  </tsar> 
+  <web>http://yomitanpm.org/ ??</web>
+  <date> type="inception">20150129</date>
+</group>
 </perl_mongers>
